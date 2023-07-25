@@ -1,4 +1,4 @@
-# Summative-1-Garcia-Mauricio
+# Summative-1-Santiago-Fernandez
 This project is for the Netflix Pathways program where we designed a simple REST API to implement a unique feature.
 Here is a video explaining the key components and logic of our REST APIs!
 
